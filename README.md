@@ -1,7 +1,13 @@
 PERSONAL SYSTEM MONITOR
-
-The system monitor checks the RAM usage, Disk Space, CPU usage, check if the website is up, save reports and run aumatically
-every morning.
+```
+The system monitor: 
+Check the RAM usage, 
+Check Disk Space,
+Check CPU usage, 
+Check if the website is up, 
+Save reports and 
+Run aumatically every morning.
+```
 
 How to run it.
 bash monitor.sh
